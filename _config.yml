@@ -291,3 +291,6 @@ defaults:
       comments: true
       share: true
       related: true
+
+disqus_url: https://disqus.com/by/seungwonjang/
+disqus_id: yellokat
