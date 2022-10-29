@@ -10,7 +10,6 @@ tags:
 ---
 
 ### 디지털 서비스의 개인화에 대한 연구가 아직 무르익지 않았던 2006년, 넷플릭스는 [사용자들의 영화 선호도 데이터](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data)를 기반으로 추천 시스템 공모전(Netflix Prize)을 열었다.
-
 이 대회는 현대의 AI 공모전의 조상격이 되는 것으로, 최종 우승은 여후다 코렌(Yehuda Koren), 로버트 벨(Robert Bell)과 크리스 볼린스키(Chris Volinsky) 3인으로 구성된 벨코(BellKor)팀이 차지했다. 그들은 대회 규칙에 따라 그들의 알고리즘을 공개하였고, 이후 같은 기술을 응용한 추천 시스템이 세상을 휩쓸게 된다. 그들이 대회에서 사용했던 테크닉을 집대성한 기념비적인 논문을 살펴보자.
 
 <p align="center">
